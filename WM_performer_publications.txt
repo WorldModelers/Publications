@@ -82,6 +82,15 @@ Retrieved from https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4314&
 Sayed, K. (2019).  Stochastic simulations of hybrid models with DISH [Poster].  Modeling the World's Systems 
 Conference, Washington DC, United States.  Retrieved from https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf 
 
+Sharp, R., Pyarelal, A., Gyori, B., Alcock, K., Laparra, E.,
+Valenzuela-Escárcega, M. A., Nagesh, A., Yadav, V., Bachman, J., Tang, Z.,
+Lent, H., Luo, F., Paul, M., Bethard, S., Barnard, K., Morrison, C., and
+Surdeanu, M. June 2019. Eidos, INDRA, & Delphi: From Free Text to Executable
+Causal Models. In: Proceedings of the 2019 Conference of the North American
+Chapter of the Association for Computational Linguistics (Demonstrations).
+Minneapolis, Minnesota: Association for Computational Linguistics, pp. 42–47.
+Retrieved from https://www.aclweb.org/anthology/N19-4008
+
 Shbita, B., Rajendran, A., Pujara, J., Knoblock, C. (2019)  Parsing, Representing and Transforming Units of 
 Measure.  Modeling the World's Systems Conference.  Retrieved from 
 https://www.momacs.pitt.edu/wp-content/uploads/2019/05/Parsing-Representing-and-Transforming-Units-of-Measure.pdf.
@@ -94,20 +103,3 @@ Telmer, C.A., Sayed, K., Butchy, A., Bocan, K.N., Holtzapple, E., Hansen, C.E., 
 Miskov-Zivanov, N.  (2019).  Dynamic system explanation: DySE, a framework that evolves to reason 
 about complex systems -  lessons learned. AIDR'19: Proceedings of the Conference on Artificial Intelligence 
 for Data Discovery and Reuse.  Retrieved from https://doi.org/10.1145/3359115.3359123.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
