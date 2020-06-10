@@ -95,12 +95,12 @@ Sayed, K. (2019).  Stochastic simulations of hybrid models with DISH [Poster].  
 Conference, Washington DC, United States.  Retrieved from https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf 
 
 Sharp, R., Pyarelal, A., Gyori, B., Alcock, K., Laparra, E.,
-Valenzuela-Escárcega, M. A., Nagesh, A., Yadav, V., Bachman, J., Tang, Z.,
+Valenzuela-EscÃ¡rcega, M. A., Nagesh, A., Yadav, V., Bachman, J., Tang, Z.,
 Lent, H., Luo, F., Paul, M., Bethard, S., Barnard, K., Morrison, C., and
 Surdeanu, M. June 2019. Eidos, INDRA, & Delphi: From Free Text to Executable
 Causal Models. In: Proceedings of the 2019 Conference of the North American
 Chapter of the Association for Computational Linguistics (Demonstrations).
-Minneapolis, Minnesota: Association for Computational Linguistics, pp. 42–47.
+Minneapolis, Minnesota: Association for Computational Linguistics, pp. 42â€“47.
 Retrieved from https://www.aclweb.org/anthology/N19-4008
 
 Shbita, B., Rajendran, A., Pujara, J., Knoblock, C. (2019)  Parsing, Representing and Transforming Units of 
@@ -132,6 +132,8 @@ Vu, B., C. Knoblock, and J. Pujara, D-REPR: A Language for Describing and Mappin
 Sources to RDF, in K-CAP '19: Proceedings of the 10th International Conference on Knowledge Capture. 
 https://dl.acm.org/doi/10.1145/3360901.3364449
 
+Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar. "Integrating physics-based modeling 
+with machine learning: A survey." arXiv preprint arXiv:2003.04919 (2020). 
 
 
 
