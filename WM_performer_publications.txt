@@ -135,6 +135,12 @@ https://dl.acm.org/doi/10.1145/3360901.3364449
 Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar. "Integrating physics-based modeling 
 with machine learning: A survey." arXiv preprint arXiv:2003.04919 (2020). 
 
+Vikas Yadav, Egoitz Laparra, Ti-Tai Wang, Mihai Surdeanu, Steven Bethard.
+University of Arizona at SemEval-2019 Task 12: Deep-Affix Named Entity Recognition of Geolocation Entities.
+In: Proceedings of the 13th International Workshop on Semantic Evaluation.
+June 2019. Minneapolis, Minnesota, USA. Association for Computational Linguistics.
+https://www.aclweb.org/anthology/S19-2232/
+
 
 
 
