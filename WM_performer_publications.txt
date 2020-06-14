@@ -135,11 +135,9 @@ https://dl.acm.org/doi/10.1145/3360901.3364449
 Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar. "Integrating physics-based modeling 
 with machine learning: A survey." arXiv preprint arXiv:2003.04919 (2020). 
 
+Vu, B., Knoblock, C., and Pujara, J. (2019). Learning Semantic Models of Data Sources Using Probabilistic Graphical Models. In The World Wide Web Conference (WWW ’19). Association for Computing Machinery, New York, NY, USA, 1944–1953. DOI:https://doi.org/10.1145/3308558.3313711
 
-
-
-
-
+Pujara, J., Rajendran, A., Ghasemi-Gol, M., & Szekely, P.A. (2019). A Common Framework for Developing Table Understanding Models. ISWC '19: Proceedings of the International Semantic Web Conference (Poster). http://ceur-ws.org/Vol-2456/paper35.pdf
 
 
 
