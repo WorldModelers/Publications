@@ -5,6 +5,12 @@ Ahmed, Y. (2019).  Automated assembly of models: applications in biology and wor
 the World's Systems Conference, Washington DC, United States.  Retrieved from  
 https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf
 
+Allen, J., Teng, C. M. and Galescu, L. (2018). Dialogue as collaborative problem solving: A case study. In Sixth Annual Conference on Advances in Cognitive Systems.
+
+Allen, J and Teng, C. M. (2019). Human-machine collaboration for world modeling. In Modeling the World’s Systems, Washington, DC.
+
+Allen, J., Teng, C. M. and Galescu, L. (2020). Dialogue as collaborative problem solving: A case study. To appear in Advances in Cognitive Systems.
+
 Chan, Y., Fasching, J., Qiu, H., Min, B. (2019).  Rapid Customization for Event Extraction.  Proceedings of
 the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, Florence, Italy.
 Retrieved from https://www.aclweb.org/anthology/P19-3006
