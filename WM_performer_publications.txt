@@ -5,6 +5,8 @@ Ahmed, Y. (2019).  Automated assembly of models: applications in biology and wor
 the World's Systems Conference, Washington DC, United States.  Retrieved from  
 https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf
 
+Ahmed, Y., Telmer, C., Miskov-Zivanov, N. (2020). ACCORDION: Clustering and Selecting Relevant Data for Guided Network Extension and Query Answering. arXiv:2002.05748 [q-bio.MN] [Preprint]. May 12, 2020.
+
 Chan, Y., Fasching, J., Qiu, H., Min, B. (2019).  Rapid Customization for Event Extraction.  Proceedings of
 the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, Florence, Italy.
 Retrieved from https://www.aclweb.org/anthology/P19-3006
@@ -57,6 +59,8 @@ D.; Lin, Y.; Song, H.; Kumar, V.; Khandelwal, A.; Steinbach, M.; Tayal, K.; Xu, 
 Ferreira da Silva, R.;  Mayani, R.; Kemanian, A.R.; Shi, Y.; Leonard, L.; Peckham, S.; Stoica, M.; Cobourn, K.; Zhang, Z.; Duffy, C.; and Shu, L. 
 Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making (Submitted to ACM 
 Transactions on Interactive Intelligent Systems)
+
+Gilboy, K., Sayed, K., Sundaram, N., Bocan, K.N., Miskov-Zivanov., N. (2019). A Faster DiSH: Hardware Implementation of a Discrete Cell Signaling Simulator. 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).  Retrieved from https://doi.org/10.1109/EMBC.2019.8857495.
 
 Goble, C., Cohen-Boulakia, S., Soiland-Reyes, S., Garijo, D., Gil, Y., Crusoe, M.R., Peters, K., Schober, D. (2019)
 FAIR Computational Workflows.  Data Intelligence: 2 PP. 108-121.
@@ -134,6 +138,8 @@ https://dl.acm.org/doi/10.1145/3360901.3364449
 
 Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar. "Integrating physics-based modeling 
 with machine learning: A survey." arXiv preprint arXiv:2003.04919 (2020). 
+
+Zhou, G., Liang, K.-W., Miskov-Zivanov, N. (2019). Intervention Pathway Discovery via Context-Dependent Dynamic Sensitivity Analysis. arXiv:1902.03216 [q-bio.MN] [Preprint]. Feb 8, 2019.
 
 
 
