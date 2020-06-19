@@ -128,6 +128,12 @@ Miskov-Zivanov, N.  (2019).  Dynamic system explanation: DySE, a framework that 
 about complex systems -  lessons learned. AIDR'19: Proceedings of the Conference on Artificial Intelligence 
 for Data Discovery and Reuse.  Retrieved from https://doi.org/10.1145/3359115.3359123.
 
+Vikas Yadav, Egoitz Laparra, Ti-Tai Wang, Mihai Surdeanu, Steven Bethard.
+University of Arizona at SemEval-2019 Task 12: Deep-Affix Named Entity Recognition of Geolocation Entities.
+In: Proceedings of the 13th International Workshop on Semantic Evaluation.
+June 2019. Minneapolis, Minnesota, USA. Association for Computational Linguistics.
+https://www.aclweb.org/anthology/S19-2232/
+
 Vu, B., C. Knoblock, and J. Pujara, D-REPR: A Language for Describing and Mapping Diversely-Structured Data 
 Sources to RDF, in K-CAP '19: Proceedings of the 10th International Conference on Knowledge Capture. 
 https://dl.acm.org/doi/10.1145/3360901.3364449
@@ -135,11 +141,6 @@ https://dl.acm.org/doi/10.1145/3360901.3364449
 Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar. "Integrating physics-based modeling 
 with machine learning: A survey." arXiv preprint arXiv:2003.04919 (2020). 
 
-Vikas Yadav, Egoitz Laparra, Ti-Tai Wang, Mihai Surdeanu, Steven Bethard.
-University of Arizona at SemEval-2019 Task 12: Deep-Affix Named Entity Recognition of Geolocation Entities.
-In: Proceedings of the 13th International Workshop on Semantic Evaluation.
-June 2019. Minneapolis, Minnesota, USA. Association for Computational Linguistics.
-https://www.aclweb.org/anthology/S19-2232/
 
 
 
