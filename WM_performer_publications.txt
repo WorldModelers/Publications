@@ -39,6 +39,9 @@ intelligent interface for integrating climate, hydrology, agriculture and socioe
 Proceedings of the 24th International Conference on Intelligent User Interfaces: Companion, pages 111-112.
 Retrieved from https://dl.acm.org/doi/10.1145/3308557.3308711.  
 
+Garijo, D. and Osorio M. OBA: An Ontology-Based Framework for Creating REST APIs for Knowledge Graphs 
+(Submitted to International Semantic Web Conference)
+
 Garijo, D., Osorio, M., Khider, D., Ratnakar, V., Gil, Y. (2019)  OKG-Soft: An Open Knowledge Graph with Machine
 Readable Scientific Software Metadata.  escience 2019.  Retrieved from 
 https://escience2019.sched.com/event/Uubg/okg-soft-an-open-knowledge-graph-with-machine-readable-scientific-software-metadata
@@ -48,6 +51,12 @@ Peckham, S., Carvalho, L., Chiang, Y., Garijo, D., Khider, D., Khandelwal, A., P
 V., Stoica, M., Vu, B. (2018).  MINT: Model Integration Through Knowledge-Powered Data and Process Composition.
 9th International Congress on Environmental Modelling and Software, Fort Collins, CO, USA.  Retrieved from
 http://dgarijo.com/papers/iemss2018-MINT.pdf.
+
+Gil,Y.; Garijo, D.; Khider, D.; Knoblock, C.A.; Ratnakar, V.; Osorio, M.; Vargas, H.; Pham,M.; Pujara, J.; Shbita, B. Vu, B; Chiang, Y.; Feldman,
+D.; Lin, Y.; Song, H.; Kumar, V.; Khandelwal, A.; Steinbach, M.; Tayal, K.; Xu, S.; Pierce, S.A.; Pearson, L.; Hardesty-Lewis, D.; Deelman, E.; 
+Ferreira da Silva, R.;  Mayani, R.; Kemanian, A.R.; Shi, Y.; Leonard, L.; Peckham, S.; Stoica, M.; Cobourn, K.; Zhang, Z.; Duffy, C.; and Shu, L. 
+Artificial Intelligence for Modeling Complex Systems: Taming the Complexity of Expert Models to Improve Decision Making (Submitted to ACM 
+Transactions on Interactive Intelligent Systems)
 
 Goble, C., Cohen-Boulakia, S., Soiland-Reyes, S., Garijo, D., Gil, Y., Crusoe, M.R., Peters, K., Schober, D. (2019)
 FAIR Computational Workflows.  Data Intelligence: 2 PP. 108-121.
@@ -79,22 +88,58 @@ Peckham, S., Stoica, M. (2018)  Principle-based, Semi-automatic Ontology Generat
 Interoperability of Data Sets and Models.  International Congress on Environmental Modelling and Software.  
 Retrieved from https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4314&context=iemssconference.
 
+Pham, M., C. Knoblock, and J. Pujara, Learning Data Transformations with Minimal User Effort, in IEEE International 
+Conference on Big Data, 2019. https://ieeexplore.ieee.org/document/9006350
+
 Sayed, K. (2019).  Stochastic simulations of hybrid models with DISH [Poster].  Modeling the World's Systems 
 Conference, Washington DC, United States.  Retrieved from https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf 
+
+Sharp, R., Pyarelal, A., Gyori, B., Alcock, K., Laparra, E.,
+Valenzuela-Escárcega, M. A., Nagesh, A., Yadav, V., Bachman, J., Tang, Z.,
+Lent, H., Luo, F., Paul, M., Bethard, S., Barnard, K., Morrison, C., and
+Surdeanu, M. June 2019. Eidos, INDRA, & Delphi: From Free Text to Executable
+Causal Models. In: Proceedings of the 2019 Conference of the North American
+Chapter of the Association for Computational Linguistics (Demonstrations).
+Minneapolis, Minnesota: Association for Computational Linguistics, pp. 42–47.
+Retrieved from https://www.aclweb.org/anthology/N19-4008
 
 Shbita, B., Rajendran, A., Pujara, J., Knoblock, C. (2019)  Parsing, Representing and Transforming Units of 
 Measure.  Modeling the World's Systems Conference.  Retrieved from 
 https://www.momacs.pitt.edu/wp-content/uploads/2019/05/Parsing-Representing-and-Transforming-Units-of-Measure.pdf.
 
+Shbita B., B. Vu, D. Feldman, M. Pham, A. Rajendran, C. Knoblock, J. Pujara, and Y. Chiang, Creating a FAIR Data 
+Catalog to Support Scientific Modeling, in Workshop on Advanced Knowledge Technologies for Science in a FAIR World, 2019. 
+http://mint-project.info/assets/publications/shbita-etal-escience19.pdf
+
 Stoica, M., Peckham, S. (2019) The Scientific Variables Ontology: A Blueprint for Custom Manual and Automated
 Creation and Alignment of Machine-Interpretable Qualitative and Quantitative Variable Concepts.  Modeling the
 World's Systems Conference.  Retrieved from http://mint-project.info/assets/publications/stoica-peckham-cwm19.pdf.
+
+Stoica M., and S.D. Peckham, Incorporating New Concepts into the Scientific Variables Ontology, in Workshop on 
+Advanced Knowledge Technologies for Science in a FAIR World, 2019. 
+http://mint-project.info/assets/publications/stoica-peckham_escience19_abstract.pdf
+
+Stoica, M., and S. D. Peckham, The Scientific Variables Ontology: A Blueprint for Custom Manual and Automated Creation 
+and Alignment of Machine-Iterpretable Qualitative and Quanitative Variable Concepts, in Modeling the World's 
+Systems Conference, 2019. http://mint-project.info/assets/publications/stoica-peckham-cwm19.pdf
 
 Telmer, C.A., Sayed, K., Butchy, A., Bocan, K.N., Holtzapple, E., Hansen, C.E., Zhou, G., Ahmed, Y., 
 Miskov-Zivanov, N.  (2019).  Dynamic system explanation: DySE, a framework that evolves to reason 
 about complex systems -  lessons learned. AIDR'19: Proceedings of the Conference on Artificial Intelligence 
 for Data Discovery and Reuse.  Retrieved from https://doi.org/10.1145/3359115.3359123.
 
+Vikas Yadav, Egoitz Laparra, Ti-Tai Wang, Mihai Surdeanu, Steven Bethard.
+University of Arizona at SemEval-2019 Task 12: Deep-Affix Named Entity Recognition of Geolocation Entities.
+In: Proceedings of the 13th International Workshop on Semantic Evaluation.
+June 2019. Minneapolis, Minnesota, USA. Association for Computational Linguistics.
+https://www.aclweb.org/anthology/S19-2232/
+
+Vu, B., C. Knoblock, and J. Pujara, D-REPR: A Language for Describing and Mapping Diversely-Structured Data 
+Sources to RDF, in K-CAP '19: Proceedings of the 10th International Conference on Knowledge Capture. 
+https://dl.acm.org/doi/10.1145/3360901.3364449
+
+Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar. "Integrating physics-based modeling 
+with machine learning: A survey." arXiv preprint arXiv:2003.04919 (2020). 
 
 
 
