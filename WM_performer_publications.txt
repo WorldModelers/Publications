@@ -5,15 +5,6 @@ Ahmed, Y. (2019).  Automated assembly of models: applications in biology and wor
 the World's Systems Conference, Washington DC, United States.  Retrieved from  
 https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf
 
-Allen, J., Teng, C. M. and Galescu, L. (2018). Dialogue as collaborative 
-problem solving: A case study. In Sixth Annual Conference on Advances in 
-Cognitive Systems.
-
-Allen, J and Teng, C. M. (2019). Human-machine collaboration for world 
-modeling. In Modeling the World’s Systems, Washington, DC.
-
-Allen, J., Teng, C. M. and Galescu, L. (2020). Dialogue as collaborative 
-problem solving: A case study. To appear in Advances in Cognitive Systems.
 
 Chan, Y., Fasching, J., Qiu, H., Min, B. (2019).  Rapid Customization for Event Extraction.  Proceedings of
 the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, Florence, Italy.
@@ -110,12 +101,12 @@ Sayed, K. (2019).  Stochastic simulations of hybrid models with DISH [Poster].  
 Conference, Washington DC, United States.  Retrieved from https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf 
 
 Sharp, R., Pyarelal, A., Gyori, B., Alcock, K., Laparra, E.,
-Valenzuela-Escárcega, M. A., Nagesh, A., Yadav, V., Bachman, J., Tang, Z.,
+Valenzuela-EscÃ¡rcega, M. A., Nagesh, A., Yadav, V., Bachman, J., Tang, Z.,
 Lent, H., Luo, F., Paul, M., Bethard, S., Barnard, K., Morrison, C., and
 Surdeanu, M. June 2019. Eidos, INDRA, & Delphi: From Free Text to Executable
 Causal Models. In: Proceedings of the 2019 Conference of the North American
 Chapter of the Association for Computational Linguistics (Demonstrations).
-Minneapolis, Minnesota: Association for Computational Linguistics, pp. 42–47.
+Minneapolis, Minnesota: Association for Computational Linguistics, pp. 42â€“47.
 Retrieved from https://www.aclweb.org/anthology/N19-4008
 
 Shbita, B., Rajendran, A., Pujara, J., Knoblock, C. (2019)  Parsing, Representing and Transforming Units of 
@@ -155,7 +146,7 @@ https://dl.acm.org/doi/10.1145/3360901.3364449
 
 Vu, B., Knoblock, C., and Pujara, J. (2019). Learning Semantic Models of Data 
 Sources Using Probabilistic Graphical Models. In The World Wide Web Conference
-(WWW ’19). Association for Computing Machinery, New York, NY, USA, 1944–1953. 
+(WWW â€™19). Association for Computing Machinery, New York, NY, USA, 1944â€“1953. 
 DOI:https://doi.org/10.1145/3308558.3313711
 
 Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar. "Integrating physics-based modeling 
