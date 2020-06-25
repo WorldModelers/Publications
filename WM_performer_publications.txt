@@ -5,11 +5,6 @@ Ahmed, Y. (2019).  Automated assembly of models: applications in biology and wor
 the World's Systems Conference, Washington DC, United States.  Retrieved from  
 https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf
 
-Allen, J., Teng, C. M. and Galescu, L. (2018). Dialogue as collaborative problem solving: A case study. In Sixth Annual Conference on Advances in Cognitive Systems.
-
-Allen, J and Teng, C. M. (2019). Human-machine collaboration for world modeling. In Modeling the World’s Systems, Washington, DC.
-
-Allen, J., Teng, C. M. and Galescu, L. (2020). Dialogue as collaborative problem solving: A case study. To appear in Advances in Cognitive Systems.
 
 Chan, Y., Fasching, J., Qiu, H., Min, B. (2019).  Rapid Customization for Event Extraction.  Proceedings of
 the 57th Annual Meeting of the Association for Computational Linguistics: System Demonstrations, Florence, Italy.
@@ -97,6 +92,11 @@ Retrieved from https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=4314&
 Pham, M., C. Knoblock, and J. Pujara, Learning Data Transformations with Minimal User Effort, in IEEE International 
 Conference on Big Data, 2019. https://ieeexplore.ieee.org/document/9006350
 
+Pujara, J., Rajendran, A., Ghasemi-Gol, M., & Szekely, P.A. (2019). A 
+Common Framework for Developing Table Understanding Models. ISWC '19: 
+Proceedings of the International Semantic Web Conference (Poster). 
+http://ceur-ws.org/Vol-2456/paper35.pdf
+
 Sayed, K. (2019).  Stochastic simulations of hybrid models with DISH [Poster].  Modeling the World's Systems 
 Conference, Washington DC, United States.  Retrieved from https://www.momacs.pitt.edu/wp-content/uploads/2019/05/momacs-agenda-1.pdf 
 
@@ -134,9 +134,20 @@ Miskov-Zivanov, N.  (2019).  Dynamic system explanation: DySE, a framework that 
 about complex systems -  lessons learned. AIDR'19: Proceedings of the Conference on Artificial Intelligence 
 for Data Discovery and Reuse.  Retrieved from https://doi.org/10.1145/3359115.3359123.
 
+Vikas Yadav, Egoitz Laparra, Ti-Tai Wang, Mihai Surdeanu, Steven Bethard.
+University of Arizona at SemEval-2019 Task 12: Deep-Affix Named Entity Recognition of Geolocation Entities.
+In: Proceedings of the 13th International Workshop on Semantic Evaluation.
+June 2019. Minneapolis, Minnesota, USA. Association for Computational Linguistics.
+https://www.aclweb.org/anthology/S19-2232/
+
 Vu, B., C. Knoblock, and J. Pujara, D-REPR: A Language for Describing and Mapping Diversely-Structured Data 
 Sources to RDF, in K-CAP '19: Proceedings of the 10th International Conference on Knowledge Capture. 
 https://dl.acm.org/doi/10.1145/3360901.3364449
+
+Vu, B., Knoblock, C., and Pujara, J. (2019). Learning Semantic Models of Data 
+Sources Using Probabilistic Graphical Models. In The World Wide Web Conference
+(WWW ’19). Association for Computing Machinery, New York, NY, USA, 1944–1953. 
+DOI:https://doi.org/10.1145/3308558.3313711
 
 Willard, Jared, Xiaowei Jia, Shaoming Xu, Michael Steinbach, and Vipin Kumar. "Integrating physics-based modeling 
 with machine learning: A survey." arXiv preprint arXiv:2003.04919 (2020). 
